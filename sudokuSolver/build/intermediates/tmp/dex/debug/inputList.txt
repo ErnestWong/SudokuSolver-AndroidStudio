@@ -1,0 +1,5 @@
+/Users/ernestwong/AndroidStudioProjects/SideKick/SudokuSolver1/sudokuSolver/build/intermediates/classes/debug
+/Users/ernestwong/AndroidStudioProjects/SideKick/SudokuSolver1/sudokuSolver/build/intermediates/pre-dexed/debug/classes-eb98a631402cc6abfa0ca9f614afbc57eeb3e032.jar
+/Users/ernestwong/AndroidStudioProjects/SideKick/SudokuSolver1/sudokuSolver/build/intermediates/pre-dexed/debug/classes-7314c4d81610d3ddf5d8cb150889efb44964e515.jar
+/Users/ernestwong/AndroidStudioProjects/SideKick/SudokuSolver1/sudokuSolver/build/intermediates/pre-dexed/debug/classes-2478964982bc412b610746ae026b3a9175f3ee31.jar
+/Users/ernestwong/AndroidStudioProjects/SideKick/SudokuSolver1/sudokuSolver/build/intermediates/pre-dexed/debug/support-v4-19.1.0-197bc686caabe876006277a2bad7d4b7a71aaf07.jar

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_launcher">
+</FrameLayout>
+<!-- From: file:/Users/ernestwong/AndroidStudioProjects/SideKick/SudokuSolver1/sudokuSolver/src/main/res/layout/splash_activity.xml -->
